@@ -1,0 +1,7 @@
+import org.apache.ibatis.cache.decorators.SerializedCache;
+public class FunctionUse1750 {
+public void funcUse() {
+SerializedCache serializedcache = new SerializedCache();
+serializedcache.serialize(null);
+}
+}
